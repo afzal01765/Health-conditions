@@ -21,7 +21,8 @@ A simple, clean, and interactive health monitoring dashboard built with HTML, CS
 
 ## 📸 Screenshot
 
-![Healthy Life Dashboard Screenshot](screenshot.png) <!-- Optional: Add your own screenshot image -->
+![Screenshot from 2025-04-13 08-51-04](https://github.com/user-attachments/assets/09a04dd0-61da-4513-8797-ab7b5864e05c)
+
 
 ---
 
